@@ -1848,7 +1848,29 @@ The downside of NUH [Natural Unsolvability Hypothesis] is that it's a little har
 "No, John, unfortunately we don't have a code for 'There's a man in my closet with a gun to my daughter's head'.  <beat> Although we obviously should."
 		-- John Locke and Ben, "The Man from Talahassee", Lost
 %
+A good bug, I mean a really good, pound-your-head-on-the-desk-for-a-week bug, is exactly like a magic trick in that something impossible appears to be happening.
 
+		-- Steven Frank, "Bugs Are Magic Tricks", <http://stevenf.com/2007/09/bugs_are_magic_tricks.php>
+%
+A good bug, I mean a really good, pound-your-head-on-the-desk-for-a-week bug, is exactly like a magic trick in that something impossible appears to be happening.
+
+There's NO WAY the buffer could ever contain that data. That code path CANNOT be reached with those input parameters. You could NEVER get that number as a result of this mathematical function.
+
+Bugs thrive on the same human brain deficiencies that earn magicians their living. We are shown something that is apparently impossible -- but the reality is that we just don't have all the information.
+		-- Steven Frank, "Bugs Are Magic Tricks", <http://stevenf.com/2007/09/bugs_are_magic_tricks.php>
+%
+The Six Stages of Debugging:
+
+1. That can't happen.
+2. That doesn't happen on my machine.
+3. That shouldn't happen.
+4. Why is that happening?
+5. Oh, I see.
+6. How did that ever work?
+
+Most people get stuck on #2. Very few people bother with #6.
+		-- $mike, Comment on "Bugs Are Magic Tricks", <http://stevenf.com/2007/09/bugs_are_magic_tricks.php>
+%
 
 
 
